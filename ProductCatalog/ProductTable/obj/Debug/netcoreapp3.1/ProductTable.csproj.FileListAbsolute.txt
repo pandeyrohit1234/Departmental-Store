@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\ProductCatalog\ProductTable\bin\Debug\netcoreapp3.1\ProductTable.deps.json
+C:\Users\Lenovo\source\repos\ProductCatalog\ProductTable\bin\Debug\netcoreapp3.1\ProductTable.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ProductCatalog\ProductTable\bin\Debug\netcoreapp3.1\ProductTable.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\ProductCatalog\ProductTable\bin\Debug\netcoreapp3.1\ProductTable.dll
+C:\Users\Lenovo\source\repos\ProductCatalog\ProductTable\bin\Debug\netcoreapp3.1\ProductTable.pdb
+C:\Users\Lenovo\source\repos\ProductCatalog\ProductTable\obj\Debug\netcoreapp3.1\ProductTable.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ProductCatalog\ProductTable\obj\Debug\netcoreapp3.1\ProductTable.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ProductCatalog\ProductTable\obj\Debug\netcoreapp3.1\ProductTable.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ProductCatalog\ProductTable\obj\Debug\netcoreapp3.1\ProductTable.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ProductCatalog\ProductTable\obj\Debug\netcoreapp3.1\ProductTable.dll
+C:\Users\Lenovo\source\repos\ProductCatalog\ProductTable\obj\Debug\netcoreapp3.1\ProductTable.pdb
+C:\Users\Lenovo\source\repos\ProductCatalog\ProductTable\obj\Debug\netcoreapp3.1\ProductTable.genruntimeconfig.cache
