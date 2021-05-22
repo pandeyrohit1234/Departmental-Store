@@ -1,4 +1,0 @@
-C:\Users\Lenovo\source\repos\DepSolution\Operation\obj\Debug\netcoreapp3.1\Operation.csprojAssemblyReference.cache
-C:\Users\Lenovo\source\repos\DepSolution\Operation\obj\Debug\netcoreapp3.1\Operation.AssemblyInfoInputs.cache
-C:\Users\Lenovo\source\repos\DepSolution\Operation\obj\Debug\netcoreapp3.1\Operation.AssemblyInfo.cs
-C:\Users\Lenovo\source\repos\DepSolution\Operation\obj\Debug\netcoreapp3.1\Operation.csproj.CoreCompileInputs.cache
