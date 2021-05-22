@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\DepSolution\Operations\bin\Debug\netcoreapp3.1\Operations.deps.json
+C:\Users\Lenovo\source\repos\DepSolution\Operations\bin\Debug\netcoreapp3.1\Operations.dll
+C:\Users\Lenovo\source\repos\DepSolution\Operations\bin\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\Lenovo\source\repos\DepSolution\Operations\bin\Debug\netcoreapp3.1\Department.Data.dll
+C:\Users\Lenovo\source\repos\DepSolution\Operations\bin\Debug\netcoreapp3.1\DepartmentContext.dll
+C:\Users\Lenovo\source\repos\DepSolution\Operations\bin\Debug\netcoreapp3.1\Department.Data.pdb
+C:\Users\Lenovo\source\repos\DepSolution\Operations\bin\Debug\netcoreapp3.1\DepartmentContext.pdb
+C:\Users\Lenovo\source\repos\DepSolution\Operations\obj\Debug\netcoreapp3.1\Operations.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\DepSolution\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DepSolution\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DepSolution\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DepSolution\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\DepSolution\Operations\obj\Debug\netcoreapp3.1\Operations.dll
+C:\Users\Lenovo\source\repos\DepSolution\Operations\obj\Debug\netcoreapp3.1\Operations.pdb
