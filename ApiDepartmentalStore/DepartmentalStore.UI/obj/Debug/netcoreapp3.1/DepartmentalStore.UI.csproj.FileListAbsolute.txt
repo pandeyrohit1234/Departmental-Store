@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\ApiDepartmentalStore\DepartmentalStore.UI\bin\Debug\netcoreapp3.1\DepartmentalStore.Data.dll
+C:\Users\Lenovo\source\repos\ApiDepartmentalStore\DepartmentalStore.UI\obj\Debug\netcoreapp3.1\DepartmentalStore.UI.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ApiDepartmentalStore\DepartmentalStore.UI\obj\Debug\netcoreapp3.1\DepartmentalStore.UI.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ApiDepartmentalStore\DepartmentalStore.UI\obj\Debug\netcoreapp3.1\DepartmentalStore.UI.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ApiDepartmentalStore\DepartmentalStore.UI\bin\Debug\netcoreapp3.1\DepartmentalStore.UI.deps.json
+C:\Users\Lenovo\source\repos\ApiDepartmentalStore\DepartmentalStore.UI\bin\Debug\netcoreapp3.1\DepartmentalStore.UI.dll
+C:\Users\Lenovo\source\repos\ApiDepartmentalStore\DepartmentalStore.UI\bin\Debug\netcoreapp3.1\DepartmentalStore.UI.pdb
+C:\Users\Lenovo\source\repos\ApiDepartmentalStore\DepartmentalStore.UI\bin\Debug\netcoreapp3.1\DepartmentalStore.Data.pdb
+C:\Users\Lenovo\source\repos\ApiDepartmentalStore\DepartmentalStore.UI\obj\Debug\netcoreapp3.1\DepartmentalStore.UI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ApiDepartmentalStore\DepartmentalStore.UI\obj\Debug\netcoreapp3.1\DepartmentalStore.UI.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\ApiDepartmentalStore\DepartmentalStore.UI\obj\Debug\netcoreapp3.1\DepartmentalStore.UI.dll
+C:\Users\Lenovo\source\repos\ApiDepartmentalStore\DepartmentalStore.UI\obj\Debug\netcoreapp3.1\DepartmentalStore.UI.pdb
