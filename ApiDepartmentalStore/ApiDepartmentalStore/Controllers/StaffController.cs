@@ -38,11 +38,15 @@ namespace ApiDepartmentalStore.Controllers
 
         // GET: api/Staffs/5
         [HttpGet("staff-member")]
-        public List<StaffModel> GetByRole(string role="role")
+        public List<StaffModel> GetByRole(string role,bool address=false)
         {
-
-            var query = _context.Staff.Where(A=>A.Role.RoleName==role).Include(a => a.Address).Include(b => b.Role);
-            var result = query.ToList();
+            
+            IQueryable<Staff> query = _context.Staff.Where(A=>A.Role.RoleName==role).Include(b => b.Role);
+            if (address == true)
+            {
+                query = query.Include(x => x.Address);
+            }
+            List<Staff> result = query.ToList();
             return _mapper.Map<List<StaffModel>>(result);
         }
 
